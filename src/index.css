@@ -1,0 +1,53 @@
+nav{
+  margin-right: 2em;
+  padding: 30px;
+}
+.dot::after {
+  content: '';
+  width: 6px;
+  height: 6px;
+  display: block;
+  background: gray;
+  border-radius: 100%;
+}
+.card-footer{
+  gap:  .5rem;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+
+.read{
+  color: red;
+  font-weight: 500;
+  font-size: small;
+}
+.active{
+  color: red;
+}
+.navbar{
+  padding: 50px;
+}
+.d-flex{
+  margin-right: 30px;
+}
+.navbar-nav a {
+  padding-bottom: 6px;
+  font-weight: 600;
+}
+
+.navbar-nav a::after {
+  content: '';
+  right: 0;
+  width: 0;
+  display: inline-block;
+  height: 3px;
+  background: hsl(120, 100%, 25%);
+  transition: all 0.4s ease-in-out;
+}
+
+.navbar-nav a:hover::after {
+  width: 100%;
+  left: 0;
+}
