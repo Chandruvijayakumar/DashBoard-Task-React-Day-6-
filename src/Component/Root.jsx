@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Root = ({ item, index }) => {
   return (
       <div className="card h-100 ">
-        <img src={item.img} className="card-img-top" alt="..." />
+        <img src={item.img} className="card-img" alt="..." />
         <div className="card-body p-4 ">
           {/* <h5 className="card-title">{item.field}</h5> */}
           <h4 className="card-text">{item.title}</h4>
