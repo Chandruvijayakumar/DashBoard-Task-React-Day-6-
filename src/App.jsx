@@ -86,7 +86,7 @@ const App = () => {
     },
     {
       id: 9,
-      img: "https://d2ds8yldqp7gxv.cloudfront.net/Blog+Images/474.webp",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Automation-Test-Engineer-Resume-Important-Things-To-Consider.webp",
       field: "cybersecurity",
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       desc: "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
@@ -95,7 +95,7 @@ const App = () => {
     },
     {
       id: 10,
-      img: "https://www.besanttechnologies.com/wp-content/uploads/2018/11/python-career-opportunities.jpg",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Featured-Image-2048x1072.webp",
       field: "career",
       title:
         "Python Job Opportunities 2024: What Are The Career Opportunities After Learning Python?",
