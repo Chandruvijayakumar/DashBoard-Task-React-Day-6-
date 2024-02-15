@@ -86,7 +86,7 @@ const App = () => {
     },
     {
       id: 9,
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Automation-Test-Engineer-Resume-Important-Things-To-Consider.webp",
+      img: "https://d2ds8yldqp7gxv.cloudfront.net/Blog+Images/474.webp",
       field: "cybersecurity",
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       desc: "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
@@ -97,9 +97,8 @@ const App = () => {
       id: 10,
       img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Featured-Image-2048x1072.webp",
       field: "career",
-      title:
-        "Python Job Opportunities 2024: What Are The Career Opportunities After Learning Python?",
-      desc: "Interested in Python job opportunities? Good call. To say that the Python job outlook is",
+      title: "9 Best Product-Based Companies for Project Management",
+      desc: "In today’s tech-driven world, the demand for project managers is higher than before. The workload",
       date: "15 february 2024",
       comment: "No comments",
     },
